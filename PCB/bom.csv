@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+LS1,XDCR_PS1240P02BT,1,PS1240P02BT,
+"SW1, SW2, SW3, SW4, SW5",SW_PUSH_6mm,5,SW_Push,
+U1,RaspberryPi_Pico_Common_THT,1,Pico,
+U2,LED_1088_Pin_Header,1,1088AS,

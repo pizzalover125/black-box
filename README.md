@@ -10,6 +10,7 @@ A PCB for #black-box. Read JOURNAL.md for a more detailed story.
 
 ### CAD
 ![Adobe Express Background Remover](https://github.com/user-attachments/assets/5e68f32f-0972-4531-a318-cb2b41c1c068)
+![image](https://github.com/user-attachments/assets/6b8a031a-51bd-484f-b968-925a483dbde4)
 
 ## BOM
 * 1x Raspberry Pi Pico H ($5.00 from Adafruit)

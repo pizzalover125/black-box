@@ -4,6 +4,5 @@ Quantity,Component,Price (USD),Source,Link
 1,PS1240 Piezo Buzzer,1.50,Adafruit,https://www.adafruit.com/product/160
 1,"1.2"" 8x8 LED Matrix",3.95,Adafruit,https://www.adafruit.com/product/455
 1,PCB,5.30,JLCPCB,
-,,,
-,,Subtotal (Adafruit),19.62,,
-,,Total,24.92,,
+,,Subtotal (Adafruit),19.62,
+,,Total,24.92,
